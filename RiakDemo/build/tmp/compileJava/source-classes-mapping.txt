@@ -1,0 +1,8 @@
+riakdemo/Main.java
+ riakdemo.Main
+riakdemo/Item.java
+ riakdemo.Item
+riakdemo/User.java
+ riakdemo.User
+riakdemo/UsersSession.java
+ riakdemo.UsersSession
