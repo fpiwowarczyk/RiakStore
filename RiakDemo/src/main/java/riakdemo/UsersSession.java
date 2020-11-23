@@ -18,7 +18,7 @@ public class UsersSession {
 
 	private static final Logger logger = LoggerFactory.getLogger(UsersSession.class);
 
-	public static final String DEFAULT_CONTACT_POINT = "127.0.0.1";
+	public static final String DEFAULT_CONTACT_POINT = "150.254.32.154";
 	public static final int DEFAULT_CONTACT_POINT_PORT = 8087;
 
 	public static UsersSession instance = null;
